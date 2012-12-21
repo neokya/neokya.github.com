@@ -1,5 +1,5 @@
 ---
-layout: page_with_subscribe_bar
+layout: page_without_subscribe_bar
 ---
 <div class="posts">
 	{% for post in paginator.posts %}
@@ -42,11 +42,11 @@ layout: page_with_subscribe_bar
 <div class="pagination">
 	<ul>
 		{% if paginator.next_page %}
-	    <li class="next"> 
+	    <li class="next">
 			<a href="/page{{paginator.next_page}}" title="Next Page" class="next" rel="next">&larr; Older Posts</a>
 			</li>
 	  {% endif %}
-	
+
 	  {% if paginator.previous_page %}
 	    <li class="prev">
 				{% if paginator.previous_page == 1 %}
