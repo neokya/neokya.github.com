@@ -1,4 +1,4 @@
-name: Brett Hardin's Blog
+name: Nar Kumar's blog
 auto: true
 permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
