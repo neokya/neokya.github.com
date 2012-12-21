@@ -3,11 +3,11 @@ layout: page_with_subscribe_bar
 ---
 <div class="post">
 <div class="row">
-	
+
 	<div class="span1">
 		{% include share_buttons.html %}
 	</div>
-	
+
 	<div class="span7">
 	{% if page.image %}
 	<div class="post-image">
@@ -35,13 +35,11 @@ layout: page_with_subscribe_bar
 		</small>
 	</p>
 
-	{% include me-footer.html %}
-
 	{% include disqus %}
 
 	{% if page.image_credit %}
 			Image Credit: {{ page.image_credit }}
-	{% endif %}  
+	{% endif %}
 </div> <!-- End of Span6 -->
 </div> <!-- End of Row -->
 </div><!-- End Post -->
