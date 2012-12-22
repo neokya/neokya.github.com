@@ -7,6 +7,6 @@ Nar Kumar <a href="https://twitter.com/neokya" class="twitter-follow-button" dat
 ============
 I am Developer currently living in Pune, India. I love coding, good music, start-up mania and freakonomics.
 
-You will find me either reading or coffee/beer hoping during my free time :)
+You will find me reading books or searching for good coffee/beer in my free time :)
 
-I am [Neo](https://www.github.com/neo) on Github. Cheers! 
+I am [Neo](https://www.github.com/neo) on Github. Cheers!
