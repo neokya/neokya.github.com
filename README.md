@@ -1,11 +1,7 @@
-# Brett Hardin's Blog
+# My Tech Blog
 
-Blog can be found [here](http://bretthard.in)
+Apart from my personal blog, I plan to keep serepate technical blog. It can be found [here](http://neo.github.com)
 
-## License
-The following directories and their contents are Copyright Brett Hardin. You may not reuse anything therein without my permission:
+## Credits
 
-* _posts/
-* images/
-
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/bhardin would be appreciated, but is not required.
+I was looking for easier way to blog. I could have built my own, but I found @bhardin and his layout I really liked. So, I forked. Thank you. http://github.com/bhardin
