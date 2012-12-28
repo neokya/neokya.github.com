@@ -1,6 +1,6 @@
 # My blog
 
-Apart from my personal blog, I plan to keep serepate technical blog. It can be found [here](http://neo.github.com)
+Apart from my personal blog, I plan to keep serepate technical blog. It can be found [here](http://neokya.github.com)
 
 ## Credits
 

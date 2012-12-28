@@ -9,4 +9,4 @@ I am Developer currently living in Pune, India. I love coding, good music, start
 
 You will find me reading books or searching for good coffee/beer in my free time :)
 
-I am [Neo](https://www.github.com/neo) on Github. Cheers!
+I am [neokya](https://www.github.com/neokya) on Github. Cheers!
