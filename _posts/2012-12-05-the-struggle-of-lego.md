@@ -2,10 +2,10 @@
 layout: post
 title: "The Struggle of Lego"
 image: http://farm4.staticflickr.com/3268/2657428339_41cdd281f7.jpg
-image_credit: hey mr glen 
-category: 
+image_credit: hey mr glen
+category:
 tags: [startups, struggle, challenges]
-meta_description: The story of how Lego came to be an iconic company is an incredible journey filled with hardship and persevereience. 
+meta_description: The story of how Lego came to be an iconic company is an incredible journey filled with hardship and persevereience.
 ---
 
 Although I played with Lego bricks as a child, I never knew the story behind Lego. I accidently stumbled on this video and was surprised by the struggle of Lego's founders.
@@ -20,7 +20,7 @@ Jimmy Dugan [explains][3]:
 
 Take-aways from the video:
 
-* __Oppurtunity exists in bad circumstances__ - Ole, Lego's founder, had an unsuccessful carpentry business and had to layoff all his employees. Not thinking it could get much worse, his wife dies. Ole is left to tend to his 4 sons and decides to build wooden toys using the residual wood from the carpentry business to make ends meet. 
+* __Oppurtunity exists in bad circumstances__ - Ole, Lego's founder, had an unsuccessful carpentry business and had to layoff all his employees. Not thinking it could get much worse, his wife dies. Ole is left to tend to his 4 sons and decides to build wooden toys using the residual wood from the carpentry business to make ends meet.
 
 * __Do whatever it takes to survive__ - Things are slow at first, but he soon receives a huge order. He is ecstatic. He builds all the toys required only to discover the company ordering the toys declares bankruptcy and can't pay him.Ole decides to sell the toys himself, but he is not a salesman. To survive, he trades toys for groceries.
 
