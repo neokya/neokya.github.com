@@ -8,11 +8,11 @@ meta_description: Mac OS setups.
 ---
 Well, Linux was my default development environment previously. I am trying to use Mac just for change. This is my setup. 
 
-1. First thing first. I installed [Homebrew][1]. (I am using Xcode Developer Tools, not full blown IDE. I still don't get rationale behind why one has to install whole damn IDE just for necessary compilers.) 
-2. While there is built-in Terminal, this [iTerm2][2] is much better. 
-3. I use Sublime Text 2 as default text editor. Texmate is open sourced now, as alternative if you want to try it out.  
-4. The 'top' command gives so cryptic output I feel like puking all over. Thankfully, there is awesome little app called [Glances - eye on your system][3]. Here is [screenshot][4] if you don't believe me.
-5. As for Python/Django development, I found really good [post out thre][5]. Sometimes the way these people blog, makes me jealous.
+- First thing first. I installed [Homebrew][1]. (I am using Xcode Developer Tools, not full blown IDE. I still don't get rationale behind why one has to install whole damn IDE just for necessary compilers.) 
+- While there is built-in Terminal, this [iTerm2][2] is much better. 
+- I use Sublime Text 2 as default text editor. Texmate is open sourced now, as alternative if you want to try it out.  
+- The 'top' command gives so cryptic output I feel like puking all over. Thankfully, there is awesome little app called [Glances - eye on your system][3]. Here is [screenshot][4] if you don't believe me.
+- As for Python/Django development, I found really good [post out there][5]. Sometimes the way these people blog, makes me jealous.
 
 Well, that's it. So far, I am loving the new machine. Linux users will say OSX is horribly slow. May be good UX and ease of use makes it still great.
 
