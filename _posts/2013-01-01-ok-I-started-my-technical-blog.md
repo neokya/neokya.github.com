@@ -15,7 +15,7 @@ I knew Github is the best place. But writing on Markdown seems more time consumi
 
 Well, I was looking for nice Jekyll blog layout. I found  [@bhardin's][2] blog. It's really nice. I forked it and made some tweaks. I am using [Mou Editor][3] to write this post. It makes writing Markdown very easy if you are on Mac.
 
-PS. Feel free to copy code and contents :)
+PS. I like Markdown.
 
 [1]: http://narkumar.blogspot.in
 [2]: http://github.com/bhardin
