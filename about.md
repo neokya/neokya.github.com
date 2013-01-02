@@ -10,3 +10,5 @@ I am Developer currently living in Pune, India. I love coding, good music, start
 You will find me reading books or searching for good coffee/beer in my free time :)
 
 I am [neokya](https://www.github.com/neokya) on Github. Cheers!
+
+Note: Everything (code, posts, images except third party contents) here is un-copyrighted. Freely copy, share and distribute :)
