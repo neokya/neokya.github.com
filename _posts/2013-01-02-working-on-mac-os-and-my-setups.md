@@ -11,7 +11,7 @@ Well, Linux was my default development environment previously. I am trying to us
 - First thing first. I installed [Homebrew][1]. (I am using Xcode Developer Tools, not full blown IDE. I still don't get rationale behind why one has to install whole damn IDE just for necessary compilers.) 
 - While there is built-in Terminal, this [iTerm2][2] is much better. 
 - I use Sublime Text 2 as default text editor. Texmate is open sourced now, as alternative if you want to try it out.  
-- The 'top' command gives so cryptic output I feel like puking all over. Thankfully, there is awesome little app called [Glances - eye on your system][3]. Here is [screenshot][4] if you don't believe me.
+- The 'top' command gives so cryptic output that I feel like puking all over. Thankfully, there is awesome little app called [Glances - eye on your system][3]. Here is [screenshot][4] if you don't believe me.
 - As for Python/Django development, I found really good [post out there][5]. Sometimes the way these people blog, makes me jealous.
 
 Well, that's it. So far, I am loving the new machine. Linux users will say OSX is horribly slow. May be good UX and ease of use makes it still great.
