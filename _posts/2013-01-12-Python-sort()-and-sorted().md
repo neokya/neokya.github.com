@@ -8,7 +8,7 @@ meta_description: Differences in Python .sort() and sorted()
 ---
 Well, the differences between `.sort()` and Python built-in functions `sorted()` are quite simple. But again I felt like putting short note here.
 
-I had a special requirement. Something like I needed to show posts according to date addeded. If it was simple demo blog engine, I would just do it in Django Model using Meta option like this `ordering = ['-pub_date']`. But real world applications are not as easy.
+I had a special requirement. Something like I needed to show posts according to date added. If it was simple demo blog engine, I would just do it in Django Model using Meta option like this `ordering = ['-pub_date']`. But real world applications are not as easy.
 
 I want to show all stream of latest posts an user is subscribed to sorted by publication date.
 
