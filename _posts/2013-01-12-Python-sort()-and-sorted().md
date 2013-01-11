@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use of .sort() and Python built-in function sorted()"
+title: "Use of sort() and Python built-in function sorted()"
 category:
 tags: [programming, python]
 
@@ -15,7 +15,7 @@ I want to show all stream of latest posts an user is subscribed to sorted by pub
 So, I get the list of posts an user is subscribed to say `posts`. Now I can sort the posts in two different ways.
 
 1. `posts.sort(key=lambda x: x.pub_date, reverse=True)`
-2. `sorted_lists = sorted(posts, key=lambda x: [x.pub_date], reverse=True)`
+2. `newli = sorted(posts, key=lambda x: [x.pub_date], reverse=True)`
 
 The above two give exactly same output. Only difference is internal operation. The `sort()` method modifies the same list for economy of space. Whereas, `sorted()` returns a new sorted list from the items in iterable.
 
