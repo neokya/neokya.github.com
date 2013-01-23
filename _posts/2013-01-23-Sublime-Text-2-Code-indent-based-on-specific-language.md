@@ -20,8 +20,8 @@ So, all I needed was tab size 4 for Python and tab size 2 for everything else. T
      "tab_size": 2,`  
     `"translate_tabs_to_spaces": true
 }`
-2. Change/create file `Python.sublime-settings` inside your User directory. 
-`{
+2. Change/create file `Python.sublime-settings` inside your User directory.  
+ `{
     "tab_size": 4,`  
     `"translate_tabs_to_spaces": true
 }`  
