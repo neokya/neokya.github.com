@@ -16,15 +16,15 @@ So, Sublime is editor for me. I haven't customized it much. However, I faced a s
 So, all I needed was tab size 4 for Python and tab size 2 for everything else. This is how it can be done.
 
 1. Change default setting to tab size 2, which should look like this. Sublime setting is just JSON file.   
- `{`
-    `"tab_size": 2,`  
-    `"translate_tabs_to_spaces": true`
-`}`
+ `{
+     "tab_size": 2,`  
+    `"translate_tabs_to_spaces": true
+}`
 2. Change/create file `Python.sublime-settings` inside your User directory. 
-`{`
-    `"tab_size": 4,`
-    `"translate_tabs_to_spaces": true`
-`}`  
+`{
+    "tab_size": 4,`  
+    `"translate_tabs_to_spaces": true
+}`  
 Location of the file varies according to OS.
 
 That's it. Back to awesomeness ;)
