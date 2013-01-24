@@ -37,6 +37,7 @@ header h2 em {
   font-family: 'Archivo Narrow', Helvetica, sans-serif;
   line-height: 44px;
   padding-top: 25px;
+  font-size: 25px;
   font-weight: 400;
 }
 /* line 44, ../../_sass/screen.scss */
