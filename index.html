@@ -19,8 +19,7 @@ layout: page_with_subscribe_bar
 						<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 					{% endif %}
           <div class="date">
-            <div>{{ post.date | date:"%b %d" }}</div>
-            <div>{{ post.date | date:"%Y" }}</div>
+            <div>{{ post.date | date:"%b %d, %Y" }}</div>
           </div>
 
 					<div class="content">
