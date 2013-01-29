@@ -10,7 +10,7 @@ Working with computers is quite interesting. Most of the people who work in this
 
 So, I want to dig all way down to rabbit hole. I was constantly looking for resources. I didn't find as much as I find for particular framework. This again sucks or may be not. But I found one just to get started.
 
-It's [The Elements of Computing Systems][1] - building a modern computer from first principles. This is not only book, but an open source project by two professors Noam Nisan and Shimon Schocken called [Nand to Tetris][2]. They say I can make a real working computer inside VM. The same syllabus is used at Harvard University CS100.
+It's [The Elements of Computing Systems][1] - building a modern computer from first principles. This is not only book, but an open source project by two professors Noam Nisan and Shimon Schocken called [Nand to Tetris][2]. They say I can make a real working computer inside VM. The same syllabus is used at Harvard University CS101.
 
 Some of the key parts covered in the project.
 
