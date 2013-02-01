@@ -8,7 +8,7 @@ meta_description: Mac OS setups.
 ---
 Well, Linux was my default development environment previously. I am trying to use Mac just for change. This is my setup.
 
-- First thing first. I installed [Homebrew][1]. (I am using Xcode Command-Line Tools, not full blown IDE. I still don't get rationale behind why one has to install whole damn IDE just for necessary compilers.) Homebrew makes cool Linux style package management possible. As simple as this one `brew install git`
+- First thing first. I installed [Homebrew][1]. (Oh foremost, you have to install compilers, which come with XCode. I am using Xcode Command-Line Tools, not full blown IDE. I still don't get rationale behind why one has to install whole damn IDE just for necessary compilers.) Homebrew makes cool Linux style package management possible. As simple as this one `brew install git`
 - While there is built-in Terminal, this [iTerm2][2] is much better.
 - I use Sublime Text 2 as default text editor. Texmate is open sourced now, as alternative if you want to try it out.
 - The 'top' command gives so cryptic output that I feel like puking all over. Thankfully, there is awesome little app called [Glances - eye on your system][3]. Here is [screenshot][4] if you don't believe me.
