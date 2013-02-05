@@ -16,13 +16,13 @@ All the non-hipsters, read this great post - [A successful Git branching model][
 
 Ok, let's get real.
 
-1. Use imperative commit messages. Initially, I used to write adjetive commit messages, like this `added feature x` and I defended my stand. Yes, it made sense when I was working on some toy project and I used to push on `master` branch. But, when you work with other team members and project gets bigger, the commit doesn't do anyting until it is merged. So, it makes a lot sense to write `add feature x` Also, refer to this [Use the imperative, Luke][2]  
+1. Use imperative commit messages. Initially, I used to write adjetive commit messages, like this `added feature x` and I defended my stand. Yes, it made sense when I was working on some toy project and I used to push on `master` branch. But, when you work with other team members and project gets bigger, the commit doesn't do anyting until it is merged. So, it makes a lot sense to write `add feature x`. It's short, meaningful and same as Git merge messages. Also, refer to this post [Use the imperative, Luke][2]  
 
 2. Above post on branching is great for active project with a team more than a couple of developers. But for small projects, that level of complexity is not really needed IMO. Keep a `master` banch for production and a `feature` branch for development. And create as many branches as needed. But, always delete the branch after it is merged back to feature branch. Otherwise, it gets too messy.  
 
 3. Use Github issues and milestones extensively. I and my team started to use this since not long, but I can't stress this enough. This is the true way of working, and it's comes for free. I feel these two replaces many paid softwares made for project management. (Yeah, I am pointing out to you, Basecamp)
 
-4. Use `.gitignore` One of the headache is when git tracks unwanted files. There are global and project level use of the feature. If stack is same in project one is working, setting everything in global is fine. Otherwise, use project level setting.  
+4. Use `.gitignore` One of the headache is when git tracks unwanted files. There are global and project level use of the feature. If stack is same in projects one is working, setting everything in global is fine. Otherwise, use project level setting.  
 
 5. Do code review - pull reqeusts. I think not merging yourself even if you can, and allowing a team member to review pull request is good thing to stick on. Like people say, team work.
 
