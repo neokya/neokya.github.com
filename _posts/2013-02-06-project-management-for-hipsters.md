@@ -6,13 +6,13 @@ tags: [project-management, team]
 
 meta_description: Using Git and Github to manage projects.
 ---
-This is more about git, than project management. I am not going to write anything new, and everything I am going to write is basics. But I know we overlook the basics, most of times. In fact, this is about how to use git and git hosting services to manage projects nicely.
+This is more about Git, than project management. I am not going to write anything new, and everything I am going to write is basics. But I know we overlook the basics, most of times. In fact, this is about how to use git and git hosting services to manage projects nicely.
 
 I have been using Git as main VCS for quite a long time. Github is always there for code hosting, but I also tried Bitbucket for some time. (FYI, Bitbucket provides five private repositories for free. That is nice.)
 
-For people new to Git, http://try.github.com
+For people new to Git, go to [Try Git][0]
 
-All the non-hipsters, read this great post [A successful Git branching model][1] 
+All the non-hipsters, read this great post - [A successful Git branching model][1] 
 
 Ok, let's get real.
 
@@ -28,6 +28,7 @@ Ok, let's get real.
 
 Well, that's it. All basics. I told you, this is for hipsters.
 
+[0]: http://try.github.com
 [1]: http://sanacl.wordpress.com/2011/03/01/use-the-imperative-luke/
 [2]: http://nvie.com/posts/a-successful-git-branching-model/
   
