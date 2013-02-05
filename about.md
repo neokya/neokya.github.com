@@ -11,7 +11,7 @@ I am interested in technology, society and freakonomics.
 
 You will find me reading books or searching for good coffee/beer in my free time :)
 
-I am [neokya][2] on Github. Cheers!
+I am [neokya][1] on Github. Cheers!
 
 Note:- Everything here is un-copyrighted. Freely copy, share and distribute :)
 
