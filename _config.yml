@@ -2,6 +2,6 @@ name: Nar Kumar's blog
 auto: true
 permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
-paginate: 5
+paginate: 8	
 feed: http://feeds.bretthard.in/bretthardin
 subscribers: "114"
