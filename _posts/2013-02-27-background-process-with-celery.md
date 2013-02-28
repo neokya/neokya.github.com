@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Background processes in django app with celery"
+title: "Background processes in django project with celery"
 category:
 tags: [programming, django, celery]
 
