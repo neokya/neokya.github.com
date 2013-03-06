@@ -29,6 +29,6 @@ Ok, let's get real.
 Well, that's it. All basics. I told you, this is for hipsters.
 
 [0]: http://try.github.com
-[1]: http://sanacl.wordpress.com/2011/03/01/use-the-imperative-luke/
-[2]: http://nvie.com/posts/a-successful-git-branching-model/
+[1]: http://nvie.com/posts/a-successful-git-branching-model/
+[2]: http://sanacl.wordpress.com/2011/03/01/use-the-imperative-luke/
   
