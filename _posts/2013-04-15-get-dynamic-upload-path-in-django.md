@@ -18,7 +18,7 @@ To quote django docs for `slugify()`
 
 >Converts to lowercase, removes non-word characters (alphanumerics and underscores) and converts spaces to hyphens. Also strips leading and trailing whitespace.
 
-So, basically it if a file named 'ââ The 24.doc' is uploaded, it will give dynamic url which will look something like this 'documents/01/aa-the-24.doc'.
+So, basically if a file named 'ââ The 24.doc' is uploaded, it will give dynamic url which will look something like this 'documents/01/aa-the-24.doc'.
 
 Notice the character â, it will break the url if used, so we need to change it to something else, in above case nicely slugified ASCII characters.
 
