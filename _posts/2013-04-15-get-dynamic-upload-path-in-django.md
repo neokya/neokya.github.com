@@ -22,5 +22,12 @@ So, basically it if a file named 'ââ The 24.doc' is uploaded, it will give dyn
 
 Notice the character â, it will break the url if used, so we need to change it to something else, in above case nicely slugified ASCII characters.
 
+Note:
+>Any characters in your URL other than A-Z, a-z, 0-9, and /.=?-+%&* (and the : in "http:") should probably be URL encoded.
+
+For details, [read more][1]
+
+[1]: http://meta.stackoverflow.com/questions/21147/non-ascii-characters-in-external-links  
+
  
   
