@@ -8,7 +8,7 @@ meta_description: Worker process with celery
 ---
 This is something new we did in our django project. We wanted to archive the big media files and keep it somewhere in server. So whenever an user wants to download them, we could point to the archived files.
 
-We chose to run worker process in background. And running the worker process in advance adds a viry reasonable UX advantage. There is [Celery Project][1] for this very thing.
+We chose to run worker process in background. And running the worker process in advance adds a very reasonable UX advantage. There is [Celery Project][1] for this very thing.
 
 From their own project:
 
