@@ -12,7 +12,7 @@ One of the thing not to hard code in Django is 'upload path' for files. I posted
 
 <script src="https://gist.github.com/neokya/5370749.js"></script>
 
-This doesn't only gives dynamic url, it slugifies (which is useful in url), and preserves the extension while doing so.
+This doesn't only give dynamic url, it slugifies (which is useful in url), and preserves the extension while doing so.
 
 To quote django docs for `slugify()`
 
