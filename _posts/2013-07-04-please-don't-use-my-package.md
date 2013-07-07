@@ -6,7 +6,7 @@ tags: [Django, Open Source]
 
 meta_description: Asynchronous thumbnail in django with celery
 ---
-I registered my fist ever package in Python Package Index. And this is I guess first open source code I wrote (I have sent few patches here and there in past though) apart some sample apps obviously. But I am telling people not to use it.
+I registered my fist ever package in Python Package Index. And this is I guess first open source code I wrote (I have sent few patches here and there in past though) apart form some sample apps obviously. But I am telling people not to use it.
 
 Ok, here is short background. It's about small thumbnailing app in django. There is one app which I have used in past, [sorl-thumbnail]. It is good piece of software which does the job. But in some cases it doesn't. In my case, we have media heavy project and we use AWS S3 to store images. sorl-thumbnail is very slow here cause it starts to thumbnail at the time when user requests page.
 
