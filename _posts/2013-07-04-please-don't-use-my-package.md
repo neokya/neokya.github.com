@@ -26,7 +26,7 @@ Then I got another reply from Chris Beaven, creator of 'easy_thumbnails' saying 
 
 I did some research before spending hours hacking wrong package. Somehow I missed the solution that was alredy there. Thanks IRC and the community. Please use 'easy_thumbnails'. And please don't use my package.
 
-In case if still you want to see the my repo, it's here '[sorl-thumbnail-async]'. 
+In case if still you want to see the repo, it's here '[sorl-thumbnail-async]'. 
 
 [sorl-thumbnail]: https://github.com/sorl/sorl-thumbnail
 [easy_thumbnails]: https://github.com/SmileyChris/easy-thumbnails
