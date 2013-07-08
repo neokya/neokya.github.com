@@ -14,7 +14,7 @@ So, we decided to fork sorl-thumbnail to make it work for us. Basically what we 
 
 1. Pregenerate thumbnail while image is uploaded via worker process with celery.
 2. Define all the thumbnail options in settings insted of passing it in templates.
-3. Cache it and serve the cahed thumbnail.
+3. Cache it and serve the cached thumbnail.
 
 So, I forked it accordingly and it works. But since original sorl-thumbnail design is different, I had to make hacks to make it work.
 
